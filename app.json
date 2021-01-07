@@ -8,7 +8,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
+    "repository": "https://github.com/itachitorrent16/Mirror-Magneto",
     "website": "https://t.me/linux_repo",
     "success_url": "https://t.me/linux_repo",
     "stack": "container",
@@ -19,12 +19,12 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "",
+        "value": "1573594171:AAF6d__dwSzJ2SofatRI0Txd-Ky4gg6BTCE",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "",
+        "value": "0AFbr1ptLsMrYUk9PVA",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "",
+        "value": "1392695109",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -49,7 +49,7 @@
       },
       "IS_TEAM_DRIVE": {
         "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
-        "value": "",
+        "value": "true",
         "required": false
       },
       "USE_SERVICE_ACCOUNTS": {
@@ -59,22 +59,22 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "",
+        "value": "https://itachi.itachiop1156.workers.dev",
         "required": false
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "",
+        "value": "2474105",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "",
+        "value": "ac4e6398505b50f0e8e2aa040db8b4f3",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
         "description": "Open this link to generate telegraph token ==> https://telegraph-token.sonywegas.repl.run",
-        "value": "",
+        "value": "e479177985e3ff56da146db0f7b1d937feda12b6c470a0903de2fa3a16ce",
         "required": false
       },
       "MEGA_API_KEY": {
@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "",
+        "value": "AQBdYEbq0dkUJ0BdBkkNcn7_Jg3A7RIzR1O9BVFuaZyfoHpSQeY-keZ5yYsmWgJVECIw8yQo_cK8BKu0fKLa3bAfe9vUEeyg6IP5wxMA0bGIYR9BMXT-MO76Arr67AK85RYC9qeGN-2_ofk7X4jee75Mg2nU7D6FedyAgsCQlHTXC_jfROlF6_x4n5s31o_XOABXhgsmt1ddFt_panqQfC99sofTnmkgXrheApDSJ7yN0xpc-Rqq750bXUbJM4HG83Ri4KNkzGxtcielN0lBTzW2PlapcZrU_9kLBv5KslbZsbhnqGPeM4Oe5Qj_1bNRmjL-DwVUsXVNMDj5h5HG3Vs9UwLXRQA",
         "required": true
       }
     },
