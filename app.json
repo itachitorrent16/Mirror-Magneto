@@ -19,7 +19,7 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "1573594171:AAF6d__dwSzJ2SofatRI0Txd-Ky4gg6BTCE",
+        "value": "1314827101:AAEuestmTy_re80OLc8JIQ8rUmiYQyvHBBM",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
